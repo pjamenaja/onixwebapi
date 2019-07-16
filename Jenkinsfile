@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Prepare') {
             steps {
-                echo 'Hello world!' 
+                echo 'This is from Master branch!' 
             }
         }
     }
