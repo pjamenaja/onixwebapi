@@ -5080,7 +5080,7 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "OnixAPI/1.0.0": {
+      "OnixAPI/1.0.0-SNAPSHOT": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -5106,7 +5106,7 @@
         "dependencies": {
           "FirebaseAuthentication.net": "3.2.0",
           "FirebaseDatabase.net": "4.0.1",
-          "OnixAPI": "1.0.0"
+          "OnixAPI": "1.0.0-SNAPSHOT"
         },
         "compile": {
           "bin/placeholder/OnixWebAPI.dll": {}
@@ -13858,7 +13858,7 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "OnixAPI/1.0.0": {
+    "OnixAPI/1.0.0-SNAPSHOT": {
       "type": "project",
       "path": "../../OnixAPI/sources/OnixAPI.csproj",
       "msbuildProject": "../../OnixAPI/sources/OnixAPI.csproj"
@@ -13876,7 +13876,7 @@
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "NUnit3TestAdapter >= 3.11.0",
-      "OnixAPI >= 1.0.0",
+      "OnixAPI >= 1.0.0-SNAPSHOT",
       "OnixWebAPI >= 1.0.0",
       "nunit >= 3.11.0"
     ]
@@ -13888,11 +13888,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj",
+      "projectUniqueName": "D:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj",
       "projectName": "OnixTest",
-      "projectPath": "d:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj",
+      "projectPath": "D:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj",
       "packagesPath": "C:\\Users\\pjame\\.nuget\\packages\\",
-      "outputPath": "d:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\obj\\",
+      "outputPath": "D:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13911,11 +13911,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "d:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj": {
-              "projectPath": "d:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj"
+            "D:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj": {
+              "projectPath": "D:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj"
             },
-            "d:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj": {
-              "projectPath": "d:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj"
+            "D:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj": {
+              "projectPath": "D:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj": {}
+    "D:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj": {}
   },
   "projects": {
-    "d:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj": {
-      "version": "1.0.0",
+    "D:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj": {
+      "version": "1.0.0-SNAPSHOT",
       "restore": {
-        "projectUniqueName": "d:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj",
+        "projectUniqueName": "D:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj",
         "projectName": "OnixAPI",
-        "projectPath": "d:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj",
+        "projectPath": "D:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj",
         "packagesPath": "C:\\Users\\pjame\\.nuget\\packages\\",
-        "outputPath": "d:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\obj\\",
+        "outputPath": "D:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -94,14 +94,14 @@
         }
       }
     },
-    "d:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj": {
+    "D:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj",
+        "projectUniqueName": "D:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj",
         "projectName": "OnixWebAPI",
-        "projectPath": "d:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj",
+        "projectPath": "D:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj",
         "packagesPath": "C:\\Users\\pjame\\.nuget\\packages\\",
-        "outputPath": "d:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\obj\\",
+        "outputPath": "D:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -120,8 +120,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "d:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj": {
-                "projectPath": "d:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj"
+              "D:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj": {
+                "projectPath": "D:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj"
               }
             }
           }
@@ -175,14 +175,14 @@
         }
       }
     },
-    "d:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj": {
+    "D:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj",
+        "projectUniqueName": "D:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj",
         "projectName": "OnixTest",
-        "projectPath": "d:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj",
+        "projectPath": "D:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj",
         "packagesPath": "C:\\Users\\pjame\\.nuget\\packages\\",
-        "outputPath": "d:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\obj\\",
+        "outputPath": "D:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -201,11 +201,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "d:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj": {
-                "projectPath": "d:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj"
+              "D:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj": {
+                "projectPath": "D:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj"
               },
-              "d:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj": {
-                "projectPath": "d:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj"
+              "D:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj": {
+                "projectPath": "D:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj"
               }
             }
           }

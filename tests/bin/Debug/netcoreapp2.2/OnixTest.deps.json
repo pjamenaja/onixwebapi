@@ -11,7 +11,7 @@
           "Microsoft.EntityFrameworkCore.Tools": "2.2.4",
           "Microsoft.NET.Test.Sdk": "15.9.0",
           "NUnit3TestAdapter": "3.11.0",
-          "OnixAPI": "1.0.0",
+          "OnixAPI": "1.0.0-SNAPSHOT",
           "OnixWebAPI": "1.0.0",
           "NUnit": "3.11.0"
         },
@@ -525,7 +525,7 @@
           }
         }
       },
-      "OnixAPI/1.0.0": {
+      "OnixAPI/1.0.0-SNAPSHOT": {
         "dependencies": {
           "FirebaseAuthentication.net": "3.2.0",
           "Microsoft.EntityFrameworkCore.InMemory": "2.2.4",
@@ -540,7 +540,7 @@
         "dependencies": {
           "FirebaseAuthentication.net": "3.2.0",
           "FirebaseDatabase.net": "4.0.1",
-          "OnixAPI": "1.0.0"
+          "OnixAPI": "1.0.0-SNAPSHOT"
         },
         "runtime": {
           "OnixWebAPI.dll": {}
@@ -827,7 +827,7 @@
       "path": "system.xml.xpath.xmldocument/4.3.0",
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
     },
-    "OnixAPI/1.0.0": {
+    "OnixAPI/1.0.0-SNAPSHOT": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
