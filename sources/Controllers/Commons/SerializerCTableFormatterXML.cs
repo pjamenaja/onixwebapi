@@ -6,7 +6,6 @@ using Microsoft.Net.Http.Headers;
 using Microsoft.AspNetCore.Mvc.Formatters;
 using Microsoft.AspNetCore.Http;
 
-using Onix.Api.Commons;
 using Onix.Api.Utils.Serializers;
 
 namespace Onix.WebApi.Controllers.Commons
