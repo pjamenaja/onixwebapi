@@ -1,2 +1,4 @@
 sources/bin/*
 sources/obj/*
+tests/bin/*
+tests/obj/*

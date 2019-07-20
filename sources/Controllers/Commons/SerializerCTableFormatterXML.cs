@@ -31,7 +31,7 @@ namespace Onix.WebApi.Controllers.Commons
             CRoot root = (CRoot) context.Object;
             var response = context.HttpContext.Response;  
 
-            CTableToXML convert1 = new CTableToXML(root);
+            CTableToXml convert1 = new CTableToXml(root);
             string xml =convert1.Serialize();
 
             HttpResponseWritingExtensions.WriteAsync(context.HttpContext.Response, xml);

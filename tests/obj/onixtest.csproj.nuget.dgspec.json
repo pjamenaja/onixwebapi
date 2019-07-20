@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj": {}
+    "d:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj": {}
   },
   "projects": {
-    "D:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj": {
+    "d:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj",
+        "projectUniqueName": "d:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj",
         "projectName": "OnixAPI",
-        "projectPath": "D:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj",
+        "projectPath": "d:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj",
         "packagesPath": "C:\\Users\\pjame\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\obj\\",
+        "outputPath": "d:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\dev\\software\\dotnet_core\\dotnet-sdk-2.2.202-win-x64\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\pjame\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,17 +94,17 @@
         }
       }
     },
-    "D:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj": {
+    "d:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj",
+        "projectUniqueName": "d:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj",
         "projectName": "OnixWebAPI",
-        "projectPath": "D:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj",
+        "projectPath": "d:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj",
         "packagesPath": "C:\\Users\\pjame\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\obj\\",
+        "outputPath": "d:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\dev\\software\\dotnet_core\\dotnet-sdk-2.2.202-win-x64\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\pjame\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -120,8 +120,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj": {
-                "projectPath": "D:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj"
+              "d:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj": {
+                "projectPath": "d:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj"
               }
             }
           }
@@ -175,17 +175,17 @@
         }
       }
     },
-    "D:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj": {
+    "d:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj",
+        "projectUniqueName": "d:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj",
         "projectName": "OnixTest",
-        "projectPath": "D:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj",
+        "projectPath": "d:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\OnixTest.csproj",
         "packagesPath": "C:\\Users\\pjame\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\obj\\",
+        "outputPath": "d:\\dev\\projects\\onix_workspace\\onixwebapi\\tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\dev\\software\\dotnet_core\\dotnet-sdk-2.2.202-win-x64\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\pjame\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -201,11 +201,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj": {
-                "projectPath": "D:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj"
+              "d:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj": {
+                "projectPath": "d:\\dev\\projects\\onix_workspace\\OnixAPI\\sources\\OnixAPI.csproj"
               },
-              "D:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj": {
-                "projectPath": "D:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj"
+              "d:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj": {
+                "projectPath": "d:\\dev\\projects\\onix_workspace\\onixwebapi\\sources\\OnixWebAPI.csproj"
               }
             }
           }

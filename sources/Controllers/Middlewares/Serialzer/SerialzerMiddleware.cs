@@ -57,7 +57,7 @@ namespace Onix.WebApi.Controllers.Middlewares.Serialzer
 
             if (root != null)
             {
-                ICTableSerializer convert1 = new CTableToXML(root);
+                ICTableSerializer convert1 = new CTableToXml(root);
                 string xml = convert1.Serialize();
                 await context.Response.WriteAsync(xml);
             }
